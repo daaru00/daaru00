@@ -1,16 +1,49 @@
-### Hi there 👋
+<h1 align="left">Hi there 👋</h1>
 
-<!--
-**daaru00/daaru00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href= "https://www.linkedin.com/in/fabio-gollinucci/"><img src="https://img.icons8.com/material/48/0366D6/linkedin.png"/></a>
+  <a href= "https://twitter.com/daaru_/"><img src="https://img.icons8.com/material/48/0366D6/twitter.png"/></a>
+  <a href= "https://fabio.gollinucci.me/"><img src="https://img.icons8.com/material/48/0366D6/website.png"/></a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=daaru00&show_icons=true&title_color=24292E&hide_rank=true&hide_title=true" alt="github stats"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/daaru00/"><img src="https://img.shields.io/github/followers/daaru00?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+  <img src="https://img.shields.io/badge/OS-Linux%20Mint-%2387CF3E" />
+  <img src="https://badges.frapsoft.com/os/v1/open-source.png?v=10" />
+  <img src="https://img.shields.io/badge/Cloud%20Provider-AWS-%23EC912D" />
+</p>
+
+<h3 align="center">Serverless Framework Components</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=serverless-component-synthetics-canary"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=serverless-component-ssm-document"/>
+</p>
+
+<h3 align="center">Serverless Framework Plugins</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=serverless-plugin-greengrass"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=serverless-plugin-ssm-document"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=serverless-plugin-static-website"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=serverless-plugin-microservices"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=serverless-plugin-share"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=serverless-plugin-dynamodb"/>
+</p>
+
+<h3 align="center">Internet of Things</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=mi-home-extended"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=aws-iot-backend"/>
+</p>
+
+<h3 align="center">Docker</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=gitlab-runners-local"/>
+</p>
