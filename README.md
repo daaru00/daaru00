@@ -1,5 +1,3 @@
-<h1 align="left">Hi there 👋</h1>
-
 <p align="center">
   <a href= "https://www.linkedin.com/in/fabio-gollinucci/"><img src="https://img.icons8.com/material/48/6A737D/linkedin.png"/></a>
   <a href= "https://twitter.com/daaru_/"><img src="https://img.icons8.com/material/48/6A737D/twitter.png"/></a>
