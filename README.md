@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=daaru00&show_icons=true&title_color=24292e&hide_rank=true&hide_title=true&icon_color=6A737D" alt="github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=daaru00&show_icons=true&title_color=24292e&hide_rank=false&hide_title=true&icon_color=6A737D" alt="github stats"/>
 </p>
 
 <p align="center">
