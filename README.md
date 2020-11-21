@@ -1,13 +1,13 @@
 <h1 align="left">Hi there 👋</h1>
 
 <p align="center">
-  <a href= "https://www.linkedin.com/in/fabio-gollinucci/"><img src="https://img.icons8.com/material/48/0366D6/linkedin.png"/></a>
-  <a href= "https://twitter.com/daaru_/"><img src="https://img.icons8.com/material/48/0366D6/twitter.png"/></a>
-  <a href= "https://fabio.gollinucci.me/"><img src="https://img.icons8.com/material/48/0366D6/website.png"/></a>
+  <a href= "https://www.linkedin.com/in/fabio-gollinucci/"><img src="https://img.icons8.com/material/48/6A737D/linkedin.png"/></a>
+  <a href= "https://twitter.com/daaru_/"><img src="https://img.icons8.com/material/48/6A737D/twitter.png"/></a>
+  <a href= "https://fabio.gollinucci.me/"><img src="https://img.icons8.com/material/48/6A737D/website.png"/></a>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=daaru00&show_icons=true&title_color=24292E&hide_rank=true&hide_title=true" alt="github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=daaru00&show_icons=true&title_color=24292e&hide_rank=true&hide_title=true&icon_color=6A737D" alt="github stats"/>
 </p>
 
 <p align="center">
