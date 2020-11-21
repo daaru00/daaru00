@@ -31,12 +31,29 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=mi-home-extended"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=aws-iot-backend"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=eliot"/>
 </p>
 
-<h3 align="center">Docker</h3>
+<h3 align="center">Electron Apps</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=gitlab-runners-local"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bitbull-team&repo=tracker&show_owner=true"/>
+</p>
+
+<h3 align="center">Vue Stuff</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=grunt-swagger-vue"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=gridsome-plugin-i18n"/>
+</p>
+
+<h2 align="center">Contributions</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=serverless&repo=components&show_owner=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=serverless&repo=serverless&show_owner=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=docker&repo=kitematic&show_owner=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=serverless-operations&repo=serverless-step-functions&show_owner=true"/>
 </p>
 
 <hr>
