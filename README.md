@@ -31,6 +31,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=mi-home-extended"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=aws-iot-backend"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=aws-iot-example"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=eliot"/>
 </p>
 
