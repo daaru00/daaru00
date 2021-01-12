@@ -3,7 +3,7 @@
 <p align="center">
   <a href= "https://www.linkedin.com/in/fabio-gollinucci/"><img src="https://img.icons8.com/material/48/6A737D/linkedin.png"/></a>
   <a href= "https://twitter.com/daaru_/"><img src="https://img.icons8.com/material/48/6A737D/twitter.png"/></a>
-  <a href= "https://fabio.gollinucci.me/"><img src="https://img.icons8.com/material/48/6A737D/website.png"/></a>
+  <a href= "https://fabio.gollinucci.me/"><img src="https://img.icons8.com/material/48/6A737D/web.png"/></a>
 </p>
 
 <p align="center">
