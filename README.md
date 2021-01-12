@@ -50,6 +50,13 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=gridsome-plugin-i18n"/>
 </p>
 
+<h3 align="center">CI/CD</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=gitlab-runners-local"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=aws-serverless-application-repository-action"/>
+</p>
+
 <h2 align="center">Contributions</h2>
 
 <p align="center">
