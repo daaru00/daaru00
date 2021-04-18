@@ -57,6 +57,17 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=aws-serverless-application-repository-action"/>
 </p>
 
+<h2 align="center">Obsidian Plugins</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=obsidian-aws-s3-sync"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=obsidian-aws-sfn"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=obsidian-commander"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=obsidian-jira-issue"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=obsidian-redmine-issue"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=obsidian-timer-tracker"/>
+</p>
+
 <h2 align="center">Contributions</h2>
 
 <p align="center">
