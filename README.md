@@ -65,7 +65,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=obsidian-commander"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=obsidian-jira-issue"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=obsidian-redmine-issue"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=obsidian-timer-tracker"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=obsidian-time-tracker"/>
 </p>
 
 <h2 align="center">Contributions</h2>
