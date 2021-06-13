@@ -117,16 +117,16 @@
 <h2 align="center">Contributions</h2>
  
 <p align="center">
-  <a href= "https://github.com/daaru00/components&show_owner=true">
+  <a href= "https://github.com/serverless/components">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=serverless&repo=components&show_owner=true"/>
   </a>
-  <a href= "https://github.com/daaru00/serverless&show_owner=true">
+  <a href= "https://github.com/serverless/serverless">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=serverless&repo=serverless&show_owner=true"/>
   </a>
-  <a href= "https://github.com/daaru00/kitematic&show_owner=true">
+  <a href= "https://github.com/docker/kitematic">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=docker&repo=kitematic&show_owner=true"/>
   </a>
-  <a href= "https://github.com/daaru00/repo=serverless-step-functions&show_owner=true">
+  <a href= "https://github.com/serverless-operations/serverless-step-functions">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=serverless-operations&repo=serverless-step-functions&show_owner=true"/>
   </a>
 </p>
