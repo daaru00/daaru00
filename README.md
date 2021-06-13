@@ -64,7 +64,7 @@
 <h3 align="center">Electron Apps</h3>
 
 <p align="center">
-  <a href= "https://github.com/daaru00/repo=tracker&show_owner=true">
+  <a href= "https://github.com/bitbull-team/tracker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bitbull-team&repo=tracker&show_owner=true"/>
   </a>
 </p>
