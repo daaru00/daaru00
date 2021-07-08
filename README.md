@@ -1,15 +1,5 @@
 <h2 align="left">Hi there :wave:</h2>
 
-<p align="center">
-  <a href= "https://www.linkedin.com/in/fabio-gollinucci/"><img src="https://img.icons8.com/material/48/6A737D/linkedin.png"/></a>
-  <a href= "https://twitter.com/daaru_/"><img src="https://img.icons8.com/material/48/6A737D/twitter.png"/></a>
-  <a href= "https://fabio.gollinucci.me/"><img src="https://img.icons8.com/material/48/6A737D/web.png"/></a>
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=daaru00&show_icons=true&title_color=40C463&hide_rank=false&hide_title=true&icon_color=6A737D" alt="github stats"/>
-</p>
-
 <h3 align="center">Serverless Framework Components</h3>
 
 <p align="center">
@@ -147,4 +137,12 @@
   <img src="https://img.shields.io/badge/Say-Thanks-F7BED3" />
   <img src="https://img.shields.io/badge/IaaC-Serverless%20Framework%20%7C%20SAM-F6544E" />
   <img src="https://img.shields.io/badge/Test-Mocha%20%7C%20Chai-8D6748" />
+</p>
+
+<hr>
+
+<p align="center">
+  <a href= "https://www.linkedin.com/in/fabio-gollinucci/"><img src="https://img.icons8.com/material/48/6A737D/linkedin.png"/></a>
+  <a href= "https://twitter.com/daaru_/"><img src="https://img.icons8.com/material/48/6A737D/twitter.png"/></a>
+  <a href= "https://fabio.gollinucci.me/"><img src="https://img.icons8.com/material/48/6A737D/web.png"/></a>
 </p>
