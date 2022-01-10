@@ -57,6 +57,9 @@
   <a href= "https://github.com/bitbull-team/tracker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bitbull-team&repo=tracker&show_owner=true"/>
   </a>
+  <a href= "https://github.com/daaru00/aws-cli-launcher">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=aws-cli-launcher&show_owner=true"/>
+  </a>
 </p>
 
 <h3 align="center">Vue Stuff</h2>
