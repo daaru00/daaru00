@@ -107,6 +107,17 @@
   </a>
 </p>
 
+<h3 align="center">CLI</h3>
+
+<p align="center">
+  <a href= "https://github.com/daaru00/aws-canary-cli">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=aws-canary-cli"/>
+  </a>
+  <a href= "https://github.com/daaru00/aws-ssm-document-cli">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=aws-ssm-document-cli"/>
+  </a>
+</p>
+
 <h2 align="center">Contributions</h2>
  
 <p align="center">
