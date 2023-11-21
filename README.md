@@ -1,5 +1,31 @@
 <h2 align="left">Hi there :wave:</h2>
 
+<h3 align="center">SAM solutions</h3>
+
+<p align="center">
+  <a href="https://github.com/daaru00/serverless-dynamic-scheduler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=serverless-dynamic-scheduler"/>
+  </a>
+  <a href="https://github.com/daaru00/lambda-hexagonal-architecture">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=lambda-hexagonal-architecture"/>
+  </a>
+  <a href="https://github.com/daaru00/aws-telegram-bot-connector">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=aws-telegram-bot-connector"/>
+  </a>
+  <a href="https://github.com/daaru00/aws-telegram-bot-bedrock">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=aws-telegram-bot-bedrock"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href= "https://github.com/daaru00/serverless-component-synthetics-canary">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=serverless-component-synthetics-canary"/>
+  </a>
+  <a href= "https://github.com/daaru00/serverless-component-ssm-document">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=serverless-component-ssm-document"/>
+  </a>
+</p>
+
 <h3 align="center">Serverless Framework Components</h3>
 
 <p align="center">
@@ -70,6 +96,9 @@
   </a>
   <a href= "https://github.com/daaru00/gridsome-plugin-i18n">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=gridsome-plugin-i18n"/>
+  </a>
+  <a href= "https://github.com/daaru00/nuxt3-lambda">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=nuxt3-lambda"/>
   </a>
 </p>
 
