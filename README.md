@@ -3,6 +3,9 @@
 <h3 align="center">SAM solutions</h3>
 
 <p align="center">
+  <a href="https://github.com/daaru00/aws-serverless-mcp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=aws-serverless-mcp"/>
+  </a>
   <a href="https://github.com/daaru00/serverless-dynamic-scheduler">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=serverless-dynamic-scheduler"/>
   </a>
