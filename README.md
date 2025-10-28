@@ -18,6 +18,9 @@
   <a href="https://github.com/daaru00/aws-telegram-bot-bedrock">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=aws-telegram-bot-bedrock"/>
   </a>
+  <a href="https://github.com/daaru00/aws-telegram-bot-transcribe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=aws-telegram-bot-transcribe"/>
+  </a>
 </p>
 
 <p align="center">
@@ -189,6 +192,6 @@
 
 <p align="center">
   <a href= "https://www.linkedin.com/in/fabio-gollinucci/"><img src="https://img.icons8.com/material/48/6A737D/linkedin.png"/></a>
-  <a href= "https://twitter.com/daaru_/"><img src="https://img.icons8.com/material/48/6A737D/twitter.png"/></a>
-  <a href= "https://fabio.gollinucci.me/"><img src="https://img.icons8.com/material/48/6A737D/web.png"/></a>
+  <a href= "https://daaru.medium.com/"><img src="https://img.icons8.com/material/48/6A737D/medium.png"/></a>
+  <a href= "https://fabio.gollinucci.me/"><img src="https://img.icons8.com/material/48/6A737D/internet.png"/></a>
 </p>
