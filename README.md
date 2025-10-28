@@ -19,7 +19,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=aws-telegram-bot-bedrock"/>
   </a>
   <a href="https://github.com/daaru00/aws-telegram-bot-transcribe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=aws-telegram-bot-transcribe"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daaru00&repo=aws-telegram-bot-transcribe&t=1"/>
   </a>
 </p>
 
